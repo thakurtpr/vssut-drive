@@ -1,0 +1,10 @@
+Build POST /wallets with user_id and opening_balance. It generates a wallet_id and saves the wallet to wallets.csv, allowing one wallet per user.
+
+Build POST /transfer with from_wallet, to_wallet, and amount.
+
+Reject the transfer if either wallet is missing (404), if the amount is not positive, if both wallets are the same, or if the balance is insufficient (409).
+On success, update both balances in wallets.csv and append two rows to wallet_txns.csv that share one transfer_id.
+If any write fails partway, restore the original state, so no half-completed transfer is ever saved.
+Two simultaneous transfers from the same wallet must never push its balance below 0.
+
+Done when: the total money across all wallets stays constant after any number of transfers.
