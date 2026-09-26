@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- VSSUT Logo / Heading -->
+<!-- Main Heading -->
 
-<h1>🎓 VSSUT CAMPUS PLACEMENT DRIVE</h1>
+<h1>🏢 iServeU × 🎓 VSSUT</h1>
 
 <!-- Typing Animation -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Welcome+to+VSSUT+Campus+Placement+Drive+%F0%9F%9A%80;Connect+with+Industry+Leaders+%F0%9F%8F%A2;Discover+Exciting+Career+Opportunities+%F0%9F%92%BC;Showcase+Your+Skills+%F0%9F%92%BB;Build+Your+Future+with+Confidence+%F0%9F%94%A5;Your+Career+Journey+Starts+Here+%E2%9C%A8" alt="VSSUT Placement Drive Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1300&color=58A6FF&center=true&vCenter=true&width=800&lines=iServeU+Campus+Hiring+Drive+%F0%9F%9A%80;Welcome+to+VSSUT+%F0%9F%8E%93;Connecting+Engineering+Talent+with+Industry+%F0%9F%8F%A2;Discovering+the+Next+Generation+of+Engineers+%F0%9F%92%BB;Building+Teams+That+Build+the+Future+%E2%9A%A1;VSSUT+%C3%97+iServeU+%E2%80%94+Engineering+Meets+Opportunity+%F0%9F%9A%80" alt="iServeU VSSUT Campus Hiring Animation" />
 </a>
 
 <br/><br/>
@@ -16,211 +16,237 @@
 
 <img src="https://img.shields.io/badge/🎓_VSSUT-Sambalpur-161b22?style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/badge/💼_Campus_Placement-58A6FF?style=flat-square" />
+<img src="https://img.shields.io/badge/🏢_iServeU-Campus_Hiring-161b22?style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/badge/🚀_Career_Opportunities-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/🚀_Engineering_Talent-58A6FF?style=flat-square" />
 
 <br/><br/>
-
-<!-- Quick Links -->
-
-<a href="#">
-  <img src="https://img.shields.io/badge/📅_Schedule-0077B5?style=for-the-badge" />
-</a>
-&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/🏢_Participating_Companies-238636?style=for-the-badge" />
-</a>
-&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/📝_Registration-D14836?style=for-the-badge" />
-</a>
 
 </div>
 
 ---
 
-## 🎯 About the Drive
+## 🏢 iServeU × VSSUT
 
 ```yaml
-event       : VSSUT Campus Placement Drive
+company     : iServeU
+event       : Campus Hiring Drive
 institution : Veer Surendra Sai University of Technology
 location    : Burla, Sambalpur, Odisha
 
-purpose:
-  - Connect students with leading organizations
-  - Provide opportunities across diverse technology domains
-  - Showcase student talent and technical skills
-  - Build long-term industry connections
+our_mission:
+  - Meet exceptional engineering talent
+  - Discover problem solvers and future engineers
+  - Connect students with real-world technology
+  - Build the next generation of engineering teams
 
-opportunities:
+looking_for:
+  - Strong programming fundamentals
+  - Problem-solving mindset
+  - Curiosity and willingness to learn
+  - Engineering fundamentals
+  - Practical project experience
+  - Ownership and collaboration
+
+domains:
   - Software Engineering
-  - Cloud & DevOps
   - Platform Engineering
+  - Cloud & DevOps
+  - Backend Engineering
   - Data & AI
-  - Electronics & Embedded Systems
-  - Core Engineering
-  - Management & Operations
+  - Infrastructure & SRE
 
-students:
-  - Final Year Students
-  - Eligible Graduating Students
-  - Recent Graduates
-
-✨ Your skills + Your ambition + The right opportunity = Your next career move
+🎯 Goal:
+   Find talented engineers who can turn
+   challenging problems into reliable solutions.
 ```
 
 ---
 
-## 🚀 Placement Journey
+## ⚡ From Campus to Production
 
 <div align="center">
 
-### 01 📝 Register
-
-⬇️
-
-### 02 📄 Resume Screening
-
-⬇️
-
-### 03 💻 Technical Assessment
-
-⬇️
-
-### 04 🧠 Technical Interview
-
-⬇️
-
-### 05 🤝 HR / Managerial Round
-
-⬇️
-
-### 06 🎉 Selection
+```text
+       🎓 VSSUT
+          │
+          │  Engineering Talent
+          ▼
+    ┌───────────────┐
+    │    iServeU    │
+    │  Engineering  │
+    │     Teams     │
+    └───────┬───────┘
+            │
+            │  Real-World Problems
+            ▼
+     ☁️ Cloud Infrastructure
+            │
+            ▼
+       ☸️ Kubernetes
+            │
+            ▼
+       ⚙️ Automation
+            │
+            ▼
+       🤖 AI / Data
+            │
+            ▼
+       🚀 Production
+```
 
 </div>
 
 ---
 
-## 💼 Career Opportunities
+## 💻 What We Look For
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 💻 Software Engineering
+### 🧠 Problem Solvers
 
-Build scalable applications and solve real-world engineering problems.
+We value engineers who can:
 
-`Java` `Python` `Go` `JavaScript`
+* Break down complex problems
+* Think logically
+* Debug systematically
+* Learn unfamiliar technologies
+* Build simple solutions to difficult problems
 
 </td>
 
 <td width="50%" valign="top">
 
-### ☁️ Cloud & DevOps
+### ⚙️ Strong Fundamentals
 
-Work with cloud infrastructure, Kubernetes, automation and CI/CD.
+Core areas that matter:
 
-`AWS` `GCP` `Docker` `Kubernetes`
+`DSA` `OOP` `DBMS` `OS` `Networks`
+
+`Linux` `Programming` `System Design`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### 🤖 AI & Data
+### ☁️ Modern Engineering
 
-Explore machine learning, AI engineering, analytics and data platforms.
+Exposure to technologies such as:
 
-`Python` `AI/ML` `Data` `RAG`
+`Cloud` `Docker` `Kubernetes`
+
+`CI/CD` `Git` `Observability`
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚡ Core Engineering
+### 🚀 Engineering Mindset
 
-Opportunities across electronics, electrical, mechanical and other engineering domains.
+We look for people who demonstrate:
 
-`Electronics` `Embedded` `Automation`
+`Ownership` `Curiosity`
+
+`Learning` `Collaboration`
+
+`Reliability` `Innovation`
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🏢 Participating Organizations
+## 🤝 The Hiring Journey
 
 <div align="center">
 
-### 🚀 Industry × Innovation × Talent
+### 🎓 VSSUT Talent
 
-<br/>
+⬇️
 
-<img src="https://img.shields.io/badge/Technology-Companies-161b22?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Product-Companies-161b22?style=for-the-badge" />
-<img src="https://img.shields.io/badge/IT%20Services-Companies-161b22?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Core-Industries-161b22?style=for-the-badge" />
+### 🧠 Problem Solving
+
+⬇️
+
+### 💻 Technical Evaluation
+
+⬇️
+
+### 🗣️ Engineering Discussion
+
+⬇️
+
+### 🤝 Meet the iServeU Team
+
+⬇️
+
+### 🚀 Build the Future Together
 
 </div>
 
 ---
 
-## 🔥 What Students Should Prepare
+## 🌐 Engineering at iServeU
 
 ```text
-                    🎓 VSSUT PLACEMENT
-                           │
-             ┌─────────────┼─────────────┐
-             │             │             │
-             ▼             ▼             ▼
-        💻 Technical   🧠 Problem      🤝 Communication
-           Skills        Solving           Skills
-             │             │             │
-             ├─────────────┼─────────────┤
-             │             │             │
-             ▼             ▼             ▼
-          DSA          Projects         HR Round
-             │
-             ▼
-      🚀 READY FOR INDUSTRY
+                         iServeU
+                            │
+             ┌──────────────┼──────────────┐
+             │              │              │
+             ▼              ▼              ▼
+          ☁️ Cloud       💻 Software      🤖 AI
+             │              │              │
+             └──────────────┼──────────────┘
+                            │
+                            ▼
+                       ⚙️ Platform
+                            │
+                            ▼
+                       ☸️ Kubernetes
+                            │
+                            ▼
+                       📊 Observability
+                            │
+                            ▼
+                     🚀 Production Systems
 ```
-
-### 📚 Preparation Checklist
-
-* ✅ Data Structures & Algorithms
-* ✅ Programming Fundamentals
-* ✅ OOP Concepts
-* ✅ DBMS & SQL
-* ✅ Operating Systems
-* ✅ Computer Networks
-* ✅ Projects & Internships
-* ✅ Resume Preparation
-* ✅ Communication Skills
-* ✅ Aptitude & Logical Reasoning
 
 ---
 
 <div align="center">
 
-## 🌟 Your Opportunity Starts Here
+## 🚀 iServeU × VSSUT
 
-### 🎓 VSSUT × INDUSTRY × STUDENTS
-
-**Learn • Build • Compete • Connect • Grow**
+### **Where Engineering Talent Meets Real-World Technology**
 
 <br/>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/🚀_REGISTER_NOW-58A6FF?style=for-the-badge&logoColor=white" />
-</a>
+🎓 **VSSUT**
+
+×
+
+🏢 **iServeU**
+
+×
+
+💻 **Engineering**
+
+×
+
+🚀 **Innovation**
 
 <br/><br/>
 
-*"Your first job is not just a destination — it's the beginning of your engineering journey."*
+*"Great engineering teams start with great engineers."*
 
 <br/><br/>
 
