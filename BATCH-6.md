@@ -6,7 +6,6 @@ You may use any AI tool. You have **10 minutes**, and you'll be asked to explain
 
 Common Setup 
 Run the database in Docker using docker run or docker compose.
-PostgreSQL is used for problems 1–7 and 10; Redis is used for problems 8 and 9.
 The app reads the connection details from environment variables such as DATABASE_URL or REDIS_URL. They must never be hard-coded.
 On startup, the app creates its tables if they don't exist, so it runs against a completely empty database.
 If the database is not reachable, the API returns 503 with the message Database unavailable rather than crashing.
