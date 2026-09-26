@@ -1,3 +1,9 @@
+### Task
+
+You may use any AI tool. You have **10 minutes**, and you'll be asked to explain your code at the end.
+
+
+
 Common Setup 
 Run the database in Docker using docker run or docker compose.
 PostgreSQL is used for problems 1–7 and 10; Redis is used for problems 8 and 9.
