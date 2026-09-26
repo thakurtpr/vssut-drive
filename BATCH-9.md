@@ -8,7 +8,7 @@ Build a seat-booking API for a small movie screening in any language.
 
 ### Database
 
-Use PostgreSQL in Docker:
+Use Any Database in Docker:
 
 ```bash
 docker run -d --name pg -e POSTGRES_PASSWORD=secret -e POSTGRES_DB=booking -p 5432:5432 postgres:16
