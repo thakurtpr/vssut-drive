@@ -3,14 +3,12 @@
 You may use any AI tool. You have **10 minutes**, and you'll be asked to explain your code at the end.
 
 
-
 Common Setup 
 Run the database in Docker using docker run or docker compose.
 The app reads the connection details from environment variables such as DATABASE_URL or REDIS_URL. They must never be hard-coded.
 On startup, the app creates its tables if they don't exist, so it runs against a completely empty database.
 If the database is not reachable, the API returns 503 with the message Database unavailable rather than crashing.
 Bonus: put the app itself in the same docker-compose.yml, so docker compose up starts everything.
-
 
 
 Problem 1: Record a Debit or Credit (PostgreSQL)
@@ -37,6 +35,11 @@ Done when: after 3 calls, SELECT COUNT(*) FROM ledger returns 3.
 
 
 
+
+
+
+
+BUILD AN API THAT TAKES VPA AS AN INPUT AND THEN TELLS WHETHER THE VPA PASSED IN THE REQUEST BODY IS A VALID ONE OR NOT 
 
 
 
